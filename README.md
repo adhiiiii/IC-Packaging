@@ -17,10 +17,21 @@ Electrical Connectivity and other benefits
 
 ## LAB1 - STM32F103X Thermal Simulation Using ANSYS-ICEPAK
 
-### Requirements Details
+### Requirement Details - VFQFPN36 Package
 ![Image](https://github.com/user-attachments/assets/2e318e47-6030-40ba-b4f1-ea276dc8196c)
+
+VFQFPN36 - 36-pin, 6x6 mm, 0.5 mm pitch very thin profile fine pitch
+quad flat package outline
+
 ![Image](https://github.com/user-attachments/assets/e8d42817-9458-45ef-a290-eaa93afdbe08)
+
+VFQFPN36 - 36-pin, 6x6 mm, 0.5 mm pitch very thin profile fine pitch
+quad flat package mechanical data
+
 ![Image](https://github.com/user-attachments/assets/59548a88-01bc-4f8a-9c18-daaafb8888cc)
+
+VFQFPN36 - 36-pin, 6x6 mm, 0.5 mm pitch very thin profile fine pitch
+quad flat package recommended footprint
 
 All values in 'mm'
 
