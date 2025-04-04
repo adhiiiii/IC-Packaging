@@ -49,12 +49,24 @@ General Operating Conditions - 1000mW => 1 watt Power
 
 ## Ansys Thermal Simulation
 
-### QFN Chip creation from ANSYS ICEPAK Tool - 
+### QFN Chip creation from ANSYS ICEPAK Tool  
 
-Measurements were given as per above requirements 
+QFN Dimensions requirement as per STM32F103X (36 leads)
 
 ![Image](https://github.com/user-attachments/assets/3774cc81-d879-4302-8a12-21f44c01e14e)
+
+QFN Leads requirement as per STM32F103X
+
 ![Image](https://github.com/user-attachments/assets/b313515b-011c-49a0-9c08-e472f90ac71c)
+
+QFN Die requirement as per STM32F103X
+
 ![Image](https://github.com/user-attachments/assets/4cbbde89-293c-4701-b089-39d163d6fe95)
+
+QFN Bondwire requirement as per STM32F103X
+
 ![Image](https://github.com/user-attachments/assets/ca989755-6583-40c6-ae88-b6379e14cbbc)
+
+Ansys EDT ICEPACK tool - QFN Generated Model  
+
 ![Image](https://github.com/user-attachments/assets/df42313b-1cd6-463e-baab-6b7338998760)
