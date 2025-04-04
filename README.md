@@ -30,9 +30,13 @@ quad flat package mechanical data
 
 ![Image](https://github.com/user-attachments/assets/59548a88-01bc-4f8a-9c18-daaafb8888cc)
 
+All values in 'mm'
+
 VFQFPN36 - 36-pin, 6x6 mm, 0.5 mm pitch very thin profile fine pitch
 quad flat package recommended footprint
 
-All values in 'mm'
+![Image](https://github.com/user-attachments/assets/a3f28ea4-d08d-4917-920a-fa4a11b498c2)
+
+General Operating Conditions - 1000mW => 1 watt Power
 
 ## Ansys Thermal Simulation
