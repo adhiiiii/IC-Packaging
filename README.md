@@ -89,3 +89,12 @@ QFN Bondwire requirement as per STM32F103X
 Ansys EDT ICEPACK tool - QFN Generated Model  
 
 ![Image](https://github.com/user-attachments/assets/df42313b-1cd6-463e-baab-6b7338998760)
+
+![Image](https://github.com/user-attachments/assets/381557fa-f2fb-4edc-a368-b6546c2bf3c9)
+![Image](https://github.com/user-attachments/assets/11c04145-4a93-4c89-aac4-5767c09ff891)
+![Image](https://github.com/user-attachments/assets/6084b965-1433-4732-83d2-9fdbce1b447e)
+![Image](https://github.com/user-attachments/assets/f6f74790-b7ae-4361-8e07-b55a383b8fed)
+
+Limitation of Sudent Ansys Version
+
+![Image](https://github.com/user-attachments/assets/b6d31868-bf3e-47a3-be1c-c1fc530784c0)
