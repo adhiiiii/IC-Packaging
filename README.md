@@ -99,7 +99,7 @@ Limitation of Sudent Ansys Version
 
 ![Image](https://github.com/user-attachments/assets/b6d31868-bf3e-47a3-be1c-c1fc530784c0)
 
-Simulation with 8 leads to overcome Limitation of student version
+Thermal Analysis with 8 leads to overcome Limitation of student version
 
 ![Image](https://github.com/user-attachments/assets/355bde5a-7dbd-4604-b6e3-fabae808ea3a)
 ![Image](https://github.com/user-attachments/assets/ed282e6d-018e-492d-953d-f1b79370258d)
