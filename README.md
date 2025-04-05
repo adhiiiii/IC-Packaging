@@ -95,7 +95,7 @@ Ansys EDT ICEPACK tool - QFN Generated Model
 ![Image](https://github.com/user-attachments/assets/6084b965-1433-4732-83d2-9fdbce1b447e)
 ![Image](https://github.com/user-attachments/assets/f6f74790-b7ae-4361-8e07-b55a383b8fed)
 
-Limitation of Sudent Ansys Version
+Limitation of Student Ansys Version
 
 ![Image](https://github.com/user-attachments/assets/b6d31868-bf3e-47a3-be1c-c1fc530784c0)
 
