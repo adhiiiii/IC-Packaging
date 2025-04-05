@@ -22,7 +22,7 @@ Electrical Connectivity and other benefits
 ![Image](https://github.com/user-attachments/assets/a861fad3-d5db-4e31-9c33-07eb210e816c)
 ![Image](https://github.com/user-attachments/assets/d5155339-47cd-4391-aa9f-cebe1cac0a36)
 ![Image](https://github.com/user-attachments/assets/8e0cbd2a-77b5-4d6d-a4d2-9d7f432e02cb)
-![Image](https://github.com/user-attachments/assets/feecb1d6-48dd-4b45-8413-392a93ce8952)
+
 
 ## Ansys Thermal Simulation
 
@@ -54,6 +54,8 @@ General Operating Conditions - 1000mW => 1 watt Power
 
 
 ### QFN Chip creation from ANSYS ICEPAK Tool  
+
+![Image](https://github.com/user-attachments/assets/feecb1d6-48dd-4b45-8413-392a93ce8952)
 
 QFN Dimensions requirement as per STM32F103X (36 leads)
 
