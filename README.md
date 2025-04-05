@@ -98,3 +98,8 @@ Ansys EDT ICEPACK tool - QFN Generated Model
 Limitation of Sudent Ansys Version
 
 ![Image](https://github.com/user-attachments/assets/b6d31868-bf3e-47a3-be1c-c1fc530784c0)
+
+Used 8 Pins
+![Image](https://github.com/user-attachments/assets/355bde5a-7dbd-4604-b6e3-fabae808ea3a)
+![Image](https://github.com/user-attachments/assets/ed282e6d-018e-492d-953d-f1b79370258d)
+![Image](https://github.com/user-attachments/assets/e89f775c-798f-49cd-8732-9b4301a58bcc)
