@@ -105,3 +105,6 @@ Thermal Analysis with 8 leads to overcome Limitation of student version
 ![Image](https://github.com/user-attachments/assets/ed282e6d-018e-492d-953d-f1b79370258d)
 ![Image](https://github.com/user-attachments/assets/e89f775c-798f-49cd-8732-9b4301a58bcc)
 ![Image](https://github.com/user-attachments/assets/b4d3b2c8-9948-4623-ad7c-5e794fda20e8)
+![Image](https://github.com/user-attachments/assets/da922137-0d3d-4bd2-aea7-43fa9c1f835a)
+
+## LAB3 - WIP
