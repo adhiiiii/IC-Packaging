@@ -15,7 +15,20 @@ Electrical Connectivity and other benefits
 
 3. Thermal Management 
 
-## LAB1 - STM32F103X Thermal Simulation Using ANSYS-ICEPAK
+
+## Ansys Tool EDT
+
+![Image](https://github.com/user-attachments/assets/80bd5a67-ce5a-4720-abe0-542393c8d3ac)
+![Image](https://github.com/user-attachments/assets/a861fad3-d5db-4e31-9c33-07eb210e816c)
+![Image](https://github.com/user-attachments/assets/d5155339-47cd-4391-aa9f-cebe1cac0a36)
+![Image](https://github.com/user-attachments/assets/8e0cbd2a-77b5-4d6d-a4d2-9d7f432e02cb)
+![Image](https://github.com/user-attachments/assets/feecb1d6-48dd-4b45-8413-392a93ce8952)
+
+## Ansys Thermal Simulation
+
+## LAB1 - ANSYS-ICEPAK
+
+## LAB2 - STM32F103X Thermal Simulation Using ANSYS-ICEPAK
 
 ### Requirement Details - VFQFPN36 Package
 ![Image](https://github.com/user-attachments/assets/2e318e47-6030-40ba-b4f1-ea276dc8196c)
@@ -39,15 +52,6 @@ quad flat package recommended footprint
 
 General Operating Conditions - 1000mW => 1 watt Power
 
-## Ansys Tool EDT
-
-![Image](https://github.com/user-attachments/assets/80bd5a67-ce5a-4720-abe0-542393c8d3ac)
-![Image](https://github.com/user-attachments/assets/a861fad3-d5db-4e31-9c33-07eb210e816c)
-![Image](https://github.com/user-attachments/assets/d5155339-47cd-4391-aa9f-cebe1cac0a36)
-![Image](https://github.com/user-attachments/assets/8e0cbd2a-77b5-4d6d-a4d2-9d7f432e02cb)
-![Image](https://github.com/user-attachments/assets/feecb1d6-48dd-4b45-8413-392a93ce8952)
-
-## Ansys Thermal Simulation
 
 ### QFN Chip creation from ANSYS ICEPAK Tool  
 
