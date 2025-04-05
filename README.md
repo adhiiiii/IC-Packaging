@@ -26,7 +26,20 @@ Electrical Connectivity and other benefits
 
 ## Ansys Thermal Simulation
 
-## LAB1 - ANSYS-ICEPAK
+## LAB1 - ANSYS-ICEPAK Flipchip BGA
+
+
+![Image](https://github.com/user-attachments/assets/26b0b3e8-5f51-44e1-afef-9d3d83fdc737)
+![Image](https://github.com/user-attachments/assets/28376f79-a8b6-4926-b8af-3ccbc8e04826)
+![Image](https://github.com/user-attachments/assets/cf8d32cf-cca4-41bd-854c-21d0fc457d4c)
+![Image](https://github.com/user-attachments/assets/f848106a-ea7d-460f-a8c4-22a6780337e6)
+![Image](https://github.com/user-attachments/assets/9f9e1c48-15c9-48fb-b377-d281c798cd60)
+![Image](https://github.com/user-attachments/assets/c231f5ae-eaa8-4b28-94e6-384c56274e06)
+![Image](https://github.com/user-attachments/assets/ba7a5fac-318c-452b-a23f-afe16a3c187f)
+![Image](https://github.com/user-attachments/assets/3987d282-06a4-4484-90ad-1d6249668c06)
+![Image](https://github.com/user-attachments/assets/001ea4b8-d0c9-4da1-bd68-07d1f2896e86)
+![Image](https://github.com/user-attachments/assets/302c2896-8ad4-43b7-b18b-08b1a35e7ae3)
+![Image](https://github.com/user-attachments/assets/9c9f6e42-ed20-402f-8707-f3457ff3a394)
 
 ## LAB2 - STM32F103X Thermal Simulation Using ANSYS-ICEPAK
 
