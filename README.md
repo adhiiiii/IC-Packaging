@@ -121,3 +121,13 @@ Thermal Analysis with 8 leads to overcome Limitation of student version
 ![Image](https://github.com/user-attachments/assets/83c3c921-98b3-467c-b0e4-a594d77eb3dc)
 ![Image](https://github.com/user-attachments/assets/89d50f57-77ef-4edf-b2f6-160017805fea)
 ![Image](https://github.com/user-attachments/assets/125a6f10-bacc-4e0c-9bbe-32c5d0dfe61c)
+
+### _References_
+```
+1. https://www.ansys.com/en-in
+2. https://www.st.com/en/microcontrollers-microprocessors/stm32f401rb.html
+```
+### _Acknowledgement_
+_* Kunal Ghosh, Founder VSD Corportation, BHARAT_
+
+_* Tarun Kumar Agarwal, ANSYS, Faculty in Dept of Electrical Enginnering, IIT Gandhinagar, BHARAT_
