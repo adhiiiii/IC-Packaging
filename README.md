@@ -107,4 +107,15 @@ Thermal Analysis with 8 leads to overcome Limitation of student version
 ![Image](https://github.com/user-attachments/assets/b4d3b2c8-9948-4623-ad7c-5e794fda20e8)
 ![Image](https://github.com/user-attachments/assets/da922137-0d3d-4bd2-aea7-43fa9c1f835a)
 
-## LAB3 - WIP
+## LAB3 - Package Design and Modeling: Building a semiconductor package from scratch
+
+![Image](https://github.com/user-attachments/assets/9ce8021c-c92d-4ce1-9a1f-b6224b327d73)
+![Image](https://github.com/user-attachments/assets/b80d769e-e222-495b-aba0-b5d8480adb80)
+![Image](https://github.com/user-attachments/assets/4f24b438-039f-46b5-bf19-7ae78e1d7e21)
+![Image](https://github.com/user-attachments/assets/0b8637b4-c379-4480-be5a-ff477fc2fc86)
+![Image](https://github.com/user-attachments/assets/7905aed7-a2ac-4308-ae55-4aed6cb80ada)
+![Image](https://github.com/user-attachments/assets/c703f801-dacb-4271-9a40-8377b0b5bd32)
+![Image](https://github.com/user-attachments/assets/5e03aa01-85c0-4cdf-80e9-2d5e14afc912)
+![Image](https://github.com/user-attachments/assets/83c3c921-98b3-467c-b0e4-a594d77eb3dc)
+![Image](https://github.com/user-attachments/assets/89d50f57-77ef-4edf-b2f6-160017805fea)
+![Image](https://github.com/user-attachments/assets/125a6f10-bacc-4e0c-9bbe-32c5d0dfe61c)
