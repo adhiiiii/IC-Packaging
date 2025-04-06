@@ -27,7 +27,7 @@ Electrical Connectivity and other benefits
 
 ## Ansys Thermal Simulation
 
-## LAB1 - ANSYS-ICEPAK Flipchip BGA
+## LAB 1 - ANSYS-ICEPAK Flipchip BGA
 
 
 ![Image](https://github.com/user-attachments/assets/26b0b3e8-5f51-44e1-afef-9d3d83fdc737)
@@ -42,7 +42,7 @@ Electrical Connectivity and other benefits
 ![Image](https://github.com/user-attachments/assets/302c2896-8ad4-43b7-b18b-08b1a35e7ae3)
 ![Image](https://github.com/user-attachments/assets/9c9f6e42-ed20-402f-8707-f3457ff3a394)
 
-## LAB2 - STM32F103X Thermal Simulation Using ANSYS-ICEPAK
+## LAB 2 - STM32F103X Thermal Simulation Using ANSYS-ICEPAK
 
 ### Requirement Details - VFQFPN36 Package
 ![Image](https://github.com/user-attachments/assets/2e318e47-6030-40ba-b4f1-ea276dc8196c)
@@ -108,7 +108,7 @@ Thermal Analysis with 8 leads to overcome Limitation of student version
 ![Image](https://github.com/user-attachments/assets/b4d3b2c8-9948-4623-ad7c-5e794fda20e8)
 ![Image](https://github.com/user-attachments/assets/da922137-0d3d-4bd2-aea7-43fa9c1f835a)
 
-## LAB3 - Package Design and Modeling: Building a semiconductor package from scratch
+## LAB 3 - Package Design and Modeling: Building a semiconductor package from scratch
 
 ![Image](https://github.com/user-attachments/assets/5f3fdc06-8f26-4faa-a900-5d1b2ce2236f)
 ![Image](https://github.com/user-attachments/assets/9ce8021c-c92d-4ce1-9a1f-b6224b327d73)
