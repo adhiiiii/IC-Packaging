@@ -110,6 +110,7 @@ Thermal Analysis with 8 leads to overcome Limitation of student version
 
 ## LAB3 - Package Design and Modeling: Building a semiconductor package from scratch
 
+![Image](https://github.com/user-attachments/assets/5f3fdc06-8f26-4faa-a900-5d1b2ce2236f)
 ![Image](https://github.com/user-attachments/assets/9ce8021c-c92d-4ce1-9a1f-b6224b327d73)
 ![Image](https://github.com/user-attachments/assets/b80d769e-e222-495b-aba0-b5d8480adb80)
 ![Image](https://github.com/user-attachments/assets/4f24b438-039f-46b5-bf19-7ae78e1d7e21)
