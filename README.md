@@ -130,4 +130,4 @@ Thermal Analysis with 8 leads to overcome Limitation of student version
 ### _Acknowledgement_
 _* Kunal Ghosh, Founder VSD Corportation, BHARAT_
 
-_* Tarun Kumar Agarwal, ANSYS, Faculty in Dept of Electrical Enginnering, IIT Gandhinagar, BHARAT_
+_* Prof. Tarun Kumar Agarwal, ANSYS, Faculty in Dept of Electrical Enginnering, IIT Gandhinagar, BHARAT_
