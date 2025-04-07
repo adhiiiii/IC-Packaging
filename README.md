@@ -53,6 +53,9 @@ Update details for Dimensions, Substrate, Solder and Die
 
 ![Image](https://github.com/user-attachments/assets/28376f79-a8b6-4926-b8af-3ccbc8e04826)
 ![Image](https://github.com/user-attachments/assets/cf8d32cf-cca4-41bd-854c-21d0fc457d4c)
+
+Assign Monitor points, Mesh 
+
 ![Image](https://github.com/user-attachments/assets/f848106a-ea7d-460f-a8c4-22a6780337e6)
 ![Image](https://github.com/user-attachments/assets/9f9e1c48-15c9-48fb-b377-d281c798cd60)
 ![Image](https://github.com/user-attachments/assets/c231f5ae-eaa8-4b28-94e6-384c56274e06)
