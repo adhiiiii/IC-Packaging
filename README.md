@@ -7,7 +7,6 @@
 • Semiconductor Die is sensitive and vulnerable to various environmental factors if not taken care will impact the functionality of IC         
 • By enclosing the semiconductor die, IC packaging provides
 
-Eg : Ball Grid Array Package
 
 Environmental protection
 Thermal Management 
@@ -31,6 +30,10 @@ Packaging Semiconductor Die facilitates Electrical Interconnection as mentioned 
 Thermal Management with IC Packaging:
 
 ![Image](https://github.com/user-attachments/assets/3d4fad65-965a-4d8f-8342-8517f7a09d2d)
+
+Eg : Cross section of 2 Layer PBGA
+
+![Image](https://github.com/user-attachments/assets/b4f02582-6d1b-410d-8efa-ded56ccbb5ff)
 
 ## Ansys Tool EDT
 
