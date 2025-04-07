@@ -142,6 +142,7 @@ Thermal Analysis with 8 leads to overcome Limitation of student version
 ```
 1. https://www.ansys.com/en-in
 2. https://www.st.com/en/microcontrollers-microprocessors/stm32f401rb.html
+3. https://www.cadence.com/en_US/home/tools/ic-package-design-and-analysis.html
 ```
 ### _Acknowledgement_
 _* Kunal Ghosh, Founder VSD Corportation, BHARAT_
