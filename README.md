@@ -10,7 +10,8 @@ Thermal Management
 Electrical Connectivity and other benefits
 
 1. Die Protection
-Importance of Die Protection
+
+Importance of Die Protection :
 
 ![Image](https://github.com/user-attachments/assets/6e70d233-388e-4106-822e-e215dcfa5353)
  
