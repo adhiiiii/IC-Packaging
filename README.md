@@ -1,4 +1,4 @@
-# Semiconductor Packing
+# Semiconductor Packaging
 
 ## Packing and Testing Flow Overiew
 ![Image](https://github.com/user-attachments/assets/6665e78b-c2cf-4b67-83fe-882c5c6faa7a)
