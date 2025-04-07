@@ -16,9 +16,13 @@ Importance of Die Protection :
 ![Image](https://github.com/user-attachments/assets/6e70d233-388e-4106-822e-e215dcfa5353)
  
 
-3. Electrical Interconnection
+2. Electrical Interconnection
 
-4. Thermal Management 
+Packaging Semiconductor Die facilitates Electrical Interconnection as mentioned below :
+
+![Image](https://github.com/user-attachments/assets/639200f5-23eb-485a-bcea-f274c9392cf9)
+
+3. Thermal Management 
 
 
 ## Ansys Tool EDT
