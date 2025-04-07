@@ -10,10 +10,14 @@ Thermal Management
 Electrical Connectivity and other benefits
 
 1. Die Protection
+Importance of Die Protection
 
-2. Electrical Interconnection
+![Image](https://github.com/user-attachments/assets/6e70d233-388e-4106-822e-e215dcfa5353)
+ 
 
-3. Thermal Management 
+3. Electrical Interconnection
+
+4. Thermal Management 
 
 
 ## Ansys Tool EDT
