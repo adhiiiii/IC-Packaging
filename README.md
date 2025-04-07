@@ -54,6 +54,8 @@ Thermal Management with IC Packaging:
 ![Image](https://github.com/user-attachments/assets/001ea4b8-d0c9-4da1-bd68-07d1f2896e86)
 ![Image](https://github.com/user-attachments/assets/302c2896-8ad4-43b7-b18b-08b1a35e7ae3)
 ![Image](https://github.com/user-attachments/assets/9c9f6e42-ed20-402f-8707-f3457ff3a394)
+![Image](https://github.com/user-attachments/assets/41f3ba01-2fdb-4582-963a-24867b6665d6)
+![Image](https://github.com/user-attachments/assets/53310c60-0c87-421b-8cc0-3d719d911a2a)
 
 ## LAB 2 - STM32F103X Thermal Simulation Using ANSYS-ICEPAK
 
