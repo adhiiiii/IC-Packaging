@@ -24,6 +24,9 @@ Packaging Semiconductor Die facilitates Electrical Interconnection as mentioned 
 
 3. Thermal Management 
 
+Thermal Management with IC Packaging:
+
+![Image](https://github.com/user-attachments/assets/3d4fad65-965a-4d8f-8342-8517f7a09d2d)
 
 ## Ansys Tool EDT
 
