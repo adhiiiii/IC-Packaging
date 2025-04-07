@@ -35,6 +35,10 @@ Eg : Cross section of 2 Layer PBGA
 
 ![Image](https://github.com/user-attachments/assets/b4f02582-6d1b-410d-8efa-ded56ccbb5ff)
 
+PBGA 35mm
+
+![Image](https://github.com/user-attachments/assets/3f787183-8cee-4ae7-a6a1-3e618d1a12ae)
+
 ## Ansys Tool EDT
 
 ![Image](https://github.com/user-attachments/assets/80bd5a67-ce5a-4720-abe0-542393c8d3ac)
