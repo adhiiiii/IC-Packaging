@@ -1,7 +1,8 @@
 # Semiconductor Packaging
 
 ## Packaging and Testing Flow Overiew
-![Image](https://github.com/user-attachments/assets/6665e78b-c2cf-4b67-83fe-882c5c6faa7a)
+![Image](https://github.com/user-attachments/assets/e6550481-08ea-4734-9cd1-72f161fc5569)
+
 ### IC Packaging a Semiconductor Die
 • Semiconductor Die is sensitive and vulnerable to various environmental factors if not taken care will impact the functionality of IC         
 • By enclosing the semiconductor die, IC packaging provides
