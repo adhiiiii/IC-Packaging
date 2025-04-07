@@ -29,7 +29,7 @@ Packaging Semiconductor Die facilitates Electrical Interconnection as mentioned 
 
 Thermal Management with IC Packaging:
 
-![Image](https://github.com/user-attachments/assets/3d4fad65-965a-4d8f-8342-8517f7a09d2d)
+![Image](https://github.com/user-attachments/assets/4e7d3f5c-fc98-481b-b775-297a14f43a5e)
 
 Eg : Cross section of 2 Layer PBGA
 
