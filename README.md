@@ -59,10 +59,16 @@ Assign Monitor points, Mesh
 ![Image](https://github.com/user-attachments/assets/f848106a-ea7d-460f-a8c4-22a6780337e6)
 ![Image](https://github.com/user-attachments/assets/9f9e1c48-15c9-48fb-b377-d281c798cd60)
 ![Image](https://github.com/user-attachments/assets/c231f5ae-eaa8-4b28-94e6-384c56274e06)
+
+'Generate Mesh', 'Validate' and 'Analyze all' under Simulation
+
 ![Image](https://github.com/user-attachments/assets/ba7a5fac-318c-452b-a23f-afe16a3c187f)
 ![Image](https://github.com/user-attachments/assets/3987d282-06a4-4484-90ad-1d6249668c06)
 ![Image](https://github.com/user-attachments/assets/001ea4b8-d0c9-4da1-bd68-07d1f2896e86)
 ![Image](https://github.com/user-attachments/assets/302c2896-8ad4-43b7-b18b-08b1a35e7ae3)
+
+Analyse Temparature Heat map generated  
+
 ![Image](https://github.com/user-attachments/assets/9c9f6e42-ed20-402f-8707-f3457ff3a394)
 ![Image](https://github.com/user-attachments/assets/41f3ba01-2fdb-4582-963a-24867b6665d6)
 ![Image](https://github.com/user-attachments/assets/53310c60-0c87-421b-8cc0-3d719d911a2a)
