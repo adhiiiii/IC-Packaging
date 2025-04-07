@@ -33,6 +33,9 @@ Thermal Management with IC Packaging:
 
 ![Image](https://github.com/user-attachments/assets/80bd5a67-ce5a-4720-abe0-542393c8d3ac)
 ![Image](https://github.com/user-attachments/assets/b2a6be94-1175-40db-bf21-f3a4b4572cb7)
+
+File --> New --> Project --> Insert Icepak Design
+
 ![Image](https://github.com/user-attachments/assets/a861fad3-d5db-4e31-9c33-07eb210e816c)
 ![Image](https://github.com/user-attachments/assets/d5155339-47cd-4391-aa9f-cebe1cac0a36)
 ![Image](https://github.com/user-attachments/assets/8e0cbd2a-77b5-4d6d-a4d2-9d7f432e02cb)
@@ -42,8 +45,12 @@ Thermal Management with IC Packaging:
 
 ## LAB 1 - ANSYS-ICEPAK Flipchip BGA
 
+Icepak_BGA --> Toolkit --> Geometry --> Packages --> Flipchip_BGA 
 
 ![Image](https://github.com/user-attachments/assets/26b0b3e8-5f51-44e1-afef-9d3d83fdc737)
+
+Update details for Dimensions, Substrate, Solder and Die
+
 ![Image](https://github.com/user-attachments/assets/28376f79-a8b6-4926-b8af-3ccbc8e04826)
 ![Image](https://github.com/user-attachments/assets/cf8d32cf-cca4-41bd-854c-21d0fc457d4c)
 ![Image](https://github.com/user-attachments/assets/f848106a-ea7d-460f-a8c4-22a6780337e6)
