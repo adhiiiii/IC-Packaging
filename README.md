@@ -6,6 +6,9 @@
 ### IC Packaging a Semiconductor Die
 • Semiconductor Die is sensitive and vulnerable to various environmental factors if not taken care will impact the functionality of IC         
 • By enclosing the semiconductor die, IC packaging provides
+
+Eg : Ball Grid Array Package
+
 Environmental protection
 Thermal Management 
 Electrical Connectivity and other benefits
