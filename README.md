@@ -39,6 +39,14 @@ PBGA 35mm
 
 ![Image](https://github.com/user-attachments/assets/3f787183-8cee-4ae7-a6a1-3e618d1a12ae)
 
+Gold Wire bond on aluminum die pad
+
+![Image](https://github.com/user-attachments/assets/e1ead6d2-183c-45be-81e4-011838efd286)
+
+Typical Wire Bonds (sources - hwmicrolab.de)
+
+![Image](https://github.com/user-attachments/assets/75168494-ae94-451b-b5ca-6b67dbd3283c)
+
 ## Ansys Tool EDT
 
 ![Image](https://github.com/user-attachments/assets/80bd5a67-ce5a-4720-abe0-542393c8d3ac)
