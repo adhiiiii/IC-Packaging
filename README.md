@@ -39,7 +39,7 @@ PBGA 35mm
 
 ![Image](https://github.com/user-attachments/assets/3f787183-8cee-4ae7-a6a1-3e618d1a12ae)
 
-Gold Wire bond on aluminum die pad
+Gold Wire Bond on Aluminum Die Pad
 
 ![Image](https://github.com/user-attachments/assets/e1ead6d2-183c-45be-81e4-011838efd286)
 
