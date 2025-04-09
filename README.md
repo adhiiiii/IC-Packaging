@@ -43,7 +43,7 @@ Gold Wire Bond on Aluminum Die Pad
 
 ![Image](https://github.com/user-attachments/assets/e1ead6d2-183c-45be-81e4-011838efd286)
 
-Typical Wire Bonds (sources - hwmicrolab.de)
+Typical Wire Bonds (source - hwmicrolab.de)
 
 ![Image](https://github.com/user-attachments/assets/75168494-ae94-451b-b5ca-6b67dbd3283c)
 
