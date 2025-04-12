@@ -1,6 +1,6 @@
 # Semiconductor Packaging
 
-## Packaging and Testing Flow Overiew
+## 1. Packaging and Testing Flow Overiew
 ![Image](https://github.com/user-attachments/assets/e6550481-08ea-4734-9cd1-72f161fc5569)
 
 ### IC Packaging a Semiconductor Die
@@ -44,7 +44,7 @@ Typical Wire Bond /Gold wire Bond Aluminum Die Pad
 ![Image](https://github.com/user-attachments/assets/536e6862-bdc6-450b-a1cb-232b7df732ae)
 
 
-## Ansys Tool EDT
+## 2. Ansys Tool EDT
 
 ![Image](https://github.com/user-attachments/assets/80bd5a67-ce5a-4720-abe0-542393c8d3ac)
 ![Image](https://github.com/user-attachments/assets/b2a6be94-1175-40db-bf21-f3a4b4572cb7)
@@ -56,9 +56,9 @@ File --> New --> Project --> Insert Icepak Design
 ![Image](https://github.com/user-attachments/assets/8e0cbd2a-77b5-4d6d-a4d2-9d7f432e02cb)
 
 
-## Ansys Thermal Simulation
+## 3. Ansys Thermal Simulation
 
-## LAB 1 - ANSYS-ICEPAK Flipchip BGA
+## 3.1 LAB #1 - ANSYS-ICEPAK Flipchip BGA
 
 Icepak_BGA --> Toolkit --> Geometry --> Packages --> Flipchip_BGA 
 
@@ -88,7 +88,7 @@ Analyse Temperature Heat map generated
 ![Image](https://github.com/user-attachments/assets/41f3ba01-2fdb-4582-963a-24867b6665d6)
 ![Image](https://github.com/user-attachments/assets/53310c60-0c87-421b-8cc0-3d719d911a2a)
 
-## LAB 2 - STM32F103X Thermal Simulation Using ANSYS-ICEPAK
+## 3.2 LAB #2 - STM32F103X Thermal Simulation Using ANSYS-ICEPAK
 
 ### Requirement Details - VFQFPN36 Package
 ![Image](https://github.com/user-attachments/assets/2e318e47-6030-40ba-b4f1-ea276dc8196c)
@@ -154,7 +154,8 @@ Thermal Analysis with 8 leads to overcome Limitation of student version
 ![Image](https://github.com/user-attachments/assets/b4d3b2c8-9948-4623-ad7c-5e794fda20e8)
 ![Image](https://github.com/user-attachments/assets/da922137-0d3d-4bd2-aea7-43fa9c1f835a)
 
-## LAB 3 - Package Design and Modeling: Building a semiconductor package from scratch
+
+## 4. LAB #3 - Package Design and Modeling: Building a semiconductor package from scratch
 
 ![Image](https://github.com/user-attachments/assets/5f3fdc06-8f26-4faa-a900-5d1b2ce2236f)
 ![Image](https://github.com/user-attachments/assets/9ce8021c-c92d-4ce1-9a1f-b6224b327d73)
